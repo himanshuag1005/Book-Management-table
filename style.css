@@ -1,0 +1,17 @@
+h1 {
+		text-align: center;
+	}
+
+	table,th,td {
+		border: 1px solid black;
+		/*border-collapse: collapse;*/ 	
+	}
+	th,td {			
+		padding: 5px;
+	}
+	th{
+		background-color: #bdbdbdab;
+	}
+	td{
+		background-color: #e0e0e059;
+	}
